@@ -1,0 +1,38 @@
+[
+  {
+    "title": "AI应用开发工程师",
+    "company": "示例科技B",
+    "city": "成都",
+    "salary_min": 12,
+    "direction": "开发",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "AI"
+    ]
+  },
+  {
+    "title": "AI交付工程师",
+    "company": "示例科技D",
+    "city": "重庆",
+    "salary_min": 11,
+    "direction": "交付",
+    "skills": [
+      "Python",
+      "Linux",
+      "AI"
+    ]
+  },
+  {
+    "title": "AI测试工程师",
+    "company": "示例科技G",
+    "city": "成都",
+    "salary_min": 11,
+    "direction": "测试",
+    "skills": [
+      "Python",
+      "测试",
+      "AI"
+    ]
+  }
+]
